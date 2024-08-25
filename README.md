@@ -25,7 +25,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-project-management.git
+git clone [https://github.com/yourusername/student-project-management.git](https://github.com/smartajay2/schoolapp.git)
 cd student-project-management
 Install Frontend Dependencies
 
